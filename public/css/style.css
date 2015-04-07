@@ -17,11 +17,11 @@ Colors:
 */
 @font-face {
 	font-family: 'icomoon';
-	src:url('fonts/icomoon.eot?ie6pll');
-	src:url('fonts/icomoon.eot?#iefixie6pll') format('embedded-opentype'),
-		url('fonts/icomoon.woff?ie6pll') format('woff'),
-		url('fonts/icomoon.ttf?ie6pll') format('truetype'),
-		url('fonts/icomoon.svg?ie6pll#icomoon') format('svg');
+	src:url('icomoon.eot?ie6pll');
+	src:url('icomoon.eot?#iefixie6pll') format('embedded-opentype'),
+		url('icomoon.woff?ie6pll') format('woff'),
+		url('icomoon.ttf?ie6pll') format('truetype'),
+		url('icomoon.svg?ie6pll#icomoon') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
