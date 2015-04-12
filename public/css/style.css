@@ -757,3 +757,8 @@ input[type="submit"]:hover {
 		font-size: 36px;
 	}
 }
+
+
+.one-half a {
+    text-decoration: none;
+}
