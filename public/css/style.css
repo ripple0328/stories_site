@@ -762,3 +762,16 @@ input[type="submit"]:hover {
 .one-half a {
     text-decoration: none;
 }
+
+.wechat_img {
+    display:none;
+    position: relative;
+    background:url(../images/wechat_qr.jpg) no-repeat;
+    background-size: 80px;
+    width: 80px;
+    top: 0px;
+    left: -18px;
+    height: 80px;
+    z-index: 10;
+    border: 1px solid #000;
+}
